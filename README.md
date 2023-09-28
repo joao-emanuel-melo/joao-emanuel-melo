@@ -1,4 +1,4 @@
-### Oii! Eu sou João, Estudante de Desenvolvimento Web.👋 ^_^
+### Oii! Eu sou João, Desenvolvedor Front End.👋 ^_^
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaoemanuelmbs@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-emanuel-584365290)
